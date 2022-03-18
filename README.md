@@ -10,8 +10,10 @@ https://rinkeby.etherscan.io/address/0x3ffdee41aad3347f82bd7b80342cdd35fee50282
 
 # NFT MetaData IPFS URL
 EbubeNFT1 - https://ipfs.io/ipfs/QmVoh4UiZjtrfivuyArU6SNYYVCHMeqwMT5cgEEF8VR96i
+
 EbubeNFT2 - https://ipfs.io/ipfs/QmdUbrhbYMyakBeHCPyVeJoMKpF7dSFkfjywiiekk7xCaf
 
 # NFT Image URL
 EbubeNFT1 - https://ipfs.io/ipfs/QmaXjpTENetYrqHicuyNweCgVdLHuEqLQ3PrwQ4MAMc1SS
+
 EbubeNFT2 - https://ipfs.io/ipfs/QmPtqqN6CuHTdsTnoYvMoNWc2AEs15xGwBbqXBFGYv7qY9
